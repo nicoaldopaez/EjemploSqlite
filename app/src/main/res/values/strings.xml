@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EjemploSqlite</string>
+    <string name="txtReg">REGISTRO ALUMNOS</string>
+    <string name="txtNombre">Nombre</string>
+    <string name="txtApellido">Apellido</string>
+    <string name="txtGuardar">GUARDAR</string>
+    <string name="txtMostrar">MOSTRAR</string>
+    <string name="btAlta">Alta</string>
+    <string name="btLista">Listado</string>
+    <string name="btRes">Reset</string>
+</resources>
